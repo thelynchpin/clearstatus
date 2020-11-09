@@ -1,4 +1,5 @@
-title: ClearStatus systems status page
+title: Gnr8tr systems status page
+baseURL: https://status.gnr8tr.online/
 languageCode: en
 params:
   shortDateFormat: 15:04 — Jan 2
@@ -16,15 +17,16 @@ params:
   timezoneString: " IST"
   logo: /images/clearstatus.svg
   description_header: Information about <a class='text-grey-darkest' title='Visit
-    example.com' href='https://www.example.com/'>example</a> systems
+    gnr8tr.online' href='http://www.gnr8tr.online/'>example</a> systems
     operations.<br />Follow us <a class='text-grey-darkest' title='Visit our
-    page on Twitter' href='https://www.twitter.com/example'>on Twitter</a> or
-    subscribe to <a class='text-grey-darkest' href='%s' >RSS</a><br />to be
+    page on Twitter' href='https://twitter.com/freceipt_gnr8tr'>on Twitter</a>
+    or subscribe to <a class='text-grey-darkest' href='%s' >RSS</a><br />to be
     alerted of new events.
-  copyrightHolder: Example Inc.
+  copyrightHolder: Gnr8tr Online Tech.
   eventsPerPage: 10
   iconType: image/png
   icon: /images/clearstatus.png
   description_footer: <a class='text-grey-darkest' title='Visit example.com'
-    href='https://www.example.com/'>Example.com</a> provides open-source
-    software for all kind of sectors.
+    href='http://www.gnr8tr.online/'>gnr8tr.online</a> allows you to
+    create/generate/gnr8/make rent,fuel,petrol,diesel, driver salary
+    receipts/bills/invoices for india.
